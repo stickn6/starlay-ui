@@ -81,7 +81,7 @@ export const EVM_NETWORK_CONFIG: Record<EVMChainId, EVMNetworkConfig> = {
     name: 'Astar Mainnet / EVM',
     publicJsonRPCUrl: ['https://evm.astar.network'],
     privateJsonRPCUrl:
-      'https://evm.astar.network',
+      'https://astar-mainnet.g.alchemy.com/v2/dIi_EyKPB3lY0p5wlyhtq',
     walletConnectProjectId: '7077959b8319331ea75408788eae93b5',
     addresses: {
       walletBalanceProvider: '0x449b5A2c9c75d77283253625C03aE6336c957a0c',
